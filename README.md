@@ -1,4 +1,4 @@
-# Eksempel på nettside for kandidat
+# Eksempel 1 på nettside for kandidat (HTML og CSS)
 
 Dette er et eksempel på nettside for kandiat med HTML og CSS.
 
